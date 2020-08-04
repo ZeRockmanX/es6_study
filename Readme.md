@@ -8,7 +8,13 @@
 05 字符串模版 （``） 字符串查找includes 复制字符串repeat
 06 数字相关操作
 07 Json 数组
-08 数组新增
+08 数组相关
+09 严谨模式和箭头函数
+10 函数和数组追加 (解构，in查找，循环forEach,filter,some,map) 数组转字符串(toString,join)
+11 ES6对象
+12 Symbol 静态属性
+13 Set / WeakSet 数据结构 (不重复的数组结构/不重复的对象结构)
+14 map数据结构
 ```
 
 ### command
