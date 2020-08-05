@@ -15,6 +15,11 @@
 12 Symbol 静态属性
 13 Set / WeakSet 数据结构 (不重复的数组结构/不重复的对象结构)
 14 map数据结构
+15 proxy 代理 预处理
+16 Promise 回调
+17 class 类
+18 模块化操作 import 引入 export 输出
+19 ES7 ES8 ...
 ```
 
 ### command
